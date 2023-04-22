@@ -3,9 +3,8 @@
 This is a simple program that displayes "Hello World". This shows 
 how python, GitHub, and Visual Studio Code works together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Listed is a video demonstrating the code running.
+[Software Demo Video](https://www.youtube.com/watch?v=8dmhq8SWdsw)
 
 # Development Environment
 
